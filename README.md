@@ -34,6 +34,7 @@
 </p>
 <div align="center"><h2>💻 Computer Specifications and Software 💻</h2>
 <img src='./gradient.png'/>
+<br>
 <p align="center">
 <img src="https://img.shields.io/badge/AMD_Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA_GTX_1050_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_10_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <br>
