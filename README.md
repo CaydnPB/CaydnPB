@@ -8,9 +8,8 @@
 
 🚀 I am excited to learn more about software engineering and enhance my skills
 </p>
-<h2 align="center">👷 My Current Work 👷‍♂️</h2>
-<div align="center">
- <img src='./gradient.png'/>
+<div align="center"><h2>👷 My Current Work 👷‍♂️</h2>
+<img src='./gradient.png'/>
 </div>
 <br>
 <p>
@@ -26,9 +25,8 @@
 
 <div align="center"> <a href="https://caydn.info"> <img src="https://img.shields.io/badge/caydn.info-000000.svg?&style=for-the-badge&logo=website&logoColor=white"/></a></div>
 </p>
-<h2 align="center">🔨 Languages and Tools 🔨</h2>
-<div align="center">
- <img src='./gradient.png'/>
+<div align="center"><h2>🔨 Languages and Tools 🔨</h2>
+<img src='./gradient.png'/>
 </div>
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=ableton,androidstudio,atom,codepen,css,eclipse,firebase,flutter,git,github,gitlab,html,idea,java,js,linux,md,postgres,py,raspberrypi,react,spring,stackoverflow,vscode&perline=6">
