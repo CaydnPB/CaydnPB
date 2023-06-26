@@ -3,15 +3,17 @@
 <div align="center">
  <img src='./gradient.png'/>
 </div>
-<div>
+<br>
+<p>
 👨‍🎓 I am currently a Software Engineering Apprentice studying for a Level 4 qualification
 
 🚀 I am excited to learn more about software engineering and enhance my skills
-</div>
+</p>
 <h2 align="center">👷 My Current Work 👷‍♂️</h2>
 <div align="center">
  <img src='./gradient.png'/>
 </div>
+<br>
 <p>
 🤖 I am developing several Android apps and a website for a local charity
 
