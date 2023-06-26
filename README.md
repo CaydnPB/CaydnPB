@@ -3,11 +3,11 @@
 <div align="center">
  <img src='./gradient.png'/>
 </div>
-<p>
+<div>
 👨‍🎓 I am currently a Software Engineering Apprentice studying for a Level 4 qualification
 
 🚀 I am excited to learn more about software engineering and enhance my skills
-</p>
+</div>
 <h2 align="center">👷 My Current Work 👷‍♂️</h2>
 <div align="center">
  <img src='./gradient.png'/>
