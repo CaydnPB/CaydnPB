@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Caydn! 👋</h1>
-<h2 align="center">👨‍💻 My Current Role 👨‍💻</h2>
-<div align="center">
- <img src='./gradient.png'/>
+<div align="center"><h2>👨‍💻 My Current Role 👨‍💻</h2>
+<img src='./gradient.png'/>
 </div>
 <br>
 <p>
