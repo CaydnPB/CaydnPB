@@ -23,7 +23,7 @@
 
 🌐 Feel free to check out my portfolio website:
 
-<div align="center"> <a href="https://caydn.info"> <img src="https://img.shields.io/badge/caydn.info-000000.svg?&style=for-the-badge&logo=website&logoColor=white"/></a></div>
+<div align="center"> <a href="https://caydn.info"> <img src="./website.svg"/></a></div>
 </p>
 <div align="center"><h2>🔨 Languages and Tools 🔨</h2>
 <img src='./gradient.svg'/>
