@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Caydn!&nbsp👋</h1>
-<div align="center"><h2>👨‍💻 My Current Role&nbsp👨‍💻</h2>
+<h1 align="center">Hi, I'm Caydn!</h1>
+<div align="center"><h2>My Current Role</h2>
 <img src='./gradient.svg' draggable="false"/>
 </div>
 <br>
@@ -8,7 +8,7 @@
 
 🚀 I am excited to learn more about software engineering and enhance my skills
 </p>
-<div align="center"><h2>👷 My Current Work&nbsp👷‍♂️</h2>
+<div align="center"><h2>My Current Work</h2>
 <img src='./gradient.svg' draggable="false"/>
 </div>
 <br>
@@ -25,14 +25,14 @@
 
 <div align="center"> <a href="https://caydn.info" draggable="false"> <img src="./website.svg" draggable="false"/></a></div>
 </p>
-<div align="center"><h2>🔨 Languages and Tools&nbsp🔨</h2>
+<div align="center"><h2>Languages and Tools</h2>
 <img src='./gradient.svg' draggable="false"/>
 </div>
 <br>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=ableton,androidstudio,atom,codepen,css,eclipse,firebase,flutter,git,github,gitlab,html,idea,java,js,linux,md,postgres,py,raspberrypi,react,spring,stackoverflow,vscode&perline=6" draggable="false">
 </p>
-<div align="center"><h2>💻 Computer Specifications and Software&nbsp💻</h2>
+<div align="center"><h2>Computer Hardware and Software</h2>
 <img src='./gradient.svg' draggable="false"/>
 <p align="center">
 <br>
