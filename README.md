@@ -30,7 +30,7 @@
 </div>
 <br>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=ableton,androidstudio,atom,codepen,css,eclipse,firebase,flutter,git,github,gitlab,html,idea,java,js,linux,md,postgres,py,raspberrypi,react,spring,stackoverflow,vscode&perline=6" draggable="false">
+<img src="https://skillicons.dev/icons?i=ableton,androidstudio,atom,codepen,css,eclipse,firebase,flutter,git,github,gitlab,html,idea,java,js,linux,md,postgres,py,raspberrypi,react,spring,stackoverflow,vscode&perline=6" draggable="false">
 </p>
 <div align="center"><h2>Computer Hardware and Software</h2>
 <img src='./gradient.svg' draggable="false"/>
